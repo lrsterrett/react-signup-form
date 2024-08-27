@@ -27,6 +27,10 @@ It also didn't make sense to reach for other styling options, but there are many
 
 Came by default as on of the vite starter templates. I don't think it's worth starting any major javascript project without typescript, though obviously not needed for a trivial example like this one.
 
+### Testing
+
+Any long term code deserves good test coverage. I'm a fan of React Testing Library to test user behavior on the frontend with minimal mocking.
+
 ### Other Thoughts
 
 I have plenty of opinions on how projects scale from here and some best practices that follow. I'd love to talk more with you in interviews :)
