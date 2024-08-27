@@ -12,7 +12,7 @@ Visit http://localhost:5173 or follow link with correct port in the terminal you
 
 ### Components
 
-For sake of simplicity, this react code all lived in the same component. If this grew into an ongoing project, one obvious part of that process would be to create separate components once they start becoming used more than a couple time. Components like inputs and buttons would move to a folder for ui components.
+For sake of simplicity, this react code all lived in the same component. If this grew into an ongoing project, one obvious part of that process would be to create separate components once they start becoming used more than a couple times. Components like inputs and buttons would move to a folder for ui components.
 
 ### Forms
 
